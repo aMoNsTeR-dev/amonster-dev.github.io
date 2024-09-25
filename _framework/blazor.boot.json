@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "amonsterwebsuite.Browser",
   "resources": {
-    "hash": "sha256-RMx0fkogtwybS0l+We/Vae+sOzXocuMlXziv7+ie34c=",
+    "hash": "sha256-MBiVIhmUN7S4y3KUiJR3t9PYVv9xRQH1Cyk7f8PcmmQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.73vsumkfdm.js": "sha256-RQe+NjcGXFNCKBwswKFcWzOcLCjlxEntZlgIPAGkblg="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "amonsterwebsuite.Browser.wasm": "sha256-NFGHQ0pJkVInrGCSB/a8AElVezVVqXjwdvGhxKmxs4U=",
-      "amonsterwebsuite.wasm": "sha256-CIbtbJRx2G+x/6B3XenC//dtjvj2ffqL9ow/STEEQ74=",
+      "amonsterwebsuite.wasm": "sha256-DkhLRqfaZ9i2rXUS23eCWzlj/sL2QfD9arkv9cR1dGw=",
       "Avalonia.Base.wasm": "sha256-TUBfQGuY+n8DAa3lAA/uwHoZgvB+2w0VMzPb6Z/PEFg=",
       "Avalonia.Browser.wasm": "sha256-atob1hGj+/I3TlDIeA6obrfcjqgKbwy35onwD/yLW+E=",
       "Avalonia.Controls.wasm": "sha256-FVHf8BYzAj5+oSzRvir7tOl87b/KW2md8b3AtuYuJds=",
